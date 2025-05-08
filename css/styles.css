@@ -7,7 +7,7 @@ table {
   width:70%; 
 }
 .month-header {
-  background-image:url("https://calendar-2025-jan.bauska.org/images/andthegaynightlife-600px2.jpg");
+  background-image:url("https://2025-jan.bauska.org/images/andthegaynightlife-600px2.jpg");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
@@ -75,7 +75,7 @@ ul {
     background-color:#c2e7e7;  /* light grayish cyan */
 }
 .natl-bird {
-    background-color:#ff3333;  /* vivid red */
+    background-color:#e0cb97;  /* very soft orange */
 }
 .golden-globe {
     background-color:#ff9933;  /* vivid orange */
@@ -87,10 +87,10 @@ ul {
     background-color:#3399ff;  /* vivid blue */
 }
 .natl-milk {
-    background-color:#ff0000;  /* bright red */
+    background-color:#d3d3d3;  /* very light gray */
 }
 .kiss-ginger {
-    background-color:#9933ff;  /* vivid violet */
+    background-color:#bf80ff;  /* very light violet */
 }
 .natl-hat {
     background-color:#ff8c1a;  /* vivid orange */
