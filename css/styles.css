@@ -6,7 +6,11 @@ table {
   table-layout:fixed;
   width:75%;
 }
-<!-- margin-right: auto;margin-left: auto; } -->
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .month-header {
   background-image:url("https://2025-jan.bauska.org/images/mst3k-chicks-600.png");
